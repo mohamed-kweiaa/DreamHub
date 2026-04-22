@@ -825,7 +825,7 @@ function Index() {
               Contact →
             </span>
           </MagneticButton>
-          <p className="mt-8 font-mono text-xs text-muted-foreground">© 2025 STUDIO</p>
+          <p className="mt-8 font-mono text-xs text-muted-foreground">© 2025 made with ❤️ by kweiaa Dev Team</p>
         </div>
       </footer>
     </div>
